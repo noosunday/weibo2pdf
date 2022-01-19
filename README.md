@@ -7,11 +7,11 @@
 
 微博内容截图
 
-![image](weibo2pdf/img/weibo.png)
+![image](https://github.com/noosunday/weibo2pdf/blob/main/pic/weibo1.png)
 
 生成的pdf截图
 
-![image](weibo2pdf/img/pdf.png)
+![image](https://github.com/noosunday/weibo2pdf/blob/main/pic/pdf1.png)
 
 主程序介绍：
 
