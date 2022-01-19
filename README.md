@@ -7,11 +7,11 @@
 
 微博内容截图
 
-![image](img/weibo.png)
+![image](weibo2pdf/img/weibo.png)
 
 生成的pdf截图
 
-![image](img/pdf.png)
+![image](weibo2pdf/img/pdf.png)
 
 主程序介绍：
 
